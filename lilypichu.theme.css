@@ -17,7 +17,7 @@
   /* Jumping GIF */
   --jumping-gif: url("https://i.imgur.com/dCd49s0.gif");
 
-  /* Background (if you want an image replace it by : 
+  /* Background (if you want an image replace it by : url("https://i.gyazo.com/1cdc2144b42e6dec7b1ff6bcc6cfcb5d.jpg")
 
 --background-tertiary-alt: url("image-link"); without that => */
   --background-tertiary-alt: #ffc7d4;
